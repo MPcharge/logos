@@ -1,7 +1,9 @@
 MPcharge Logos
 ==============
 
-This repo contains the (so far horribly unofficial, not seen by anyone but me etc.) logos of the MPcharge competition.
+This repo contains the logos of and other graphics needed for the MPcharge competition.
+
+The stuff here should not be taken officially. This is my (Kamila's) repo where I upload work in progress, and only after persuading the others that it is awesome do these things become official logos :-P
 
 License
 =======
